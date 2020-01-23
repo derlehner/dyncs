@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmlns:xmi="http://www.omg.org/XMI"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  name="model" xmi:id="_6e7VQLBwEemRMJ6x5qgFTw" xmi:version="2.0">
+  <eAnnotations source="genmymodel" xmi:id="_6e7VQbBwEemRMJ6x5qgFTw">
+    <details key="uuid" value="d7211dd8-bb02-453d-8662-9414738e50f4"
+      xmi:id="_6e7VQrBwEemRMJ6x5qgFTw"/>
+    <details key="author" value="derlehner" xmi:id="_6e7VQ7BwEemRMJ6x5qgFTw"/>
+  </eAnnotations>
+  <packageImport xmi:id="_6e7VRLBwEemRMJ6x5qgFTw">
+    <eAnnotations source="genmymodel" xmi:id="_6e7VRbBwEemRMJ6x5qgFTw">
+      <details key="uuid" value="_PFuLwZXmEemDRadoXsoCJA" xmi:id="_6e7VRrBwEemRMJ6x5qgFTw"/>
+    </eAnnotations>
+    <importedPackage href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#/"/>
+  </packageImport>
+  <packagedElement name="Interaction" xmi:id="_6e7VR7BwEemRMJ6x5qgFTw" xsi:type="uml:Interaction">
+    <eAnnotations source="genmymodel" xmi:id="_6e7VSLBwEemRMJ6x5qgFTw">
+      <details key="uuid" value="_PFuLwpXmEemDRadoXsoCJA" xmi:id="_6e7VSbBwEemRMJ6x5qgFTw"/>
+    </eAnnotations>
+    <fragment covered="_6e7VTbBwEemRMJ6x5qgFTw" finish="_6e7VYrBwEemRMJ6x5qgFTw"
+      start="_6e7VX7BwEemRMJ6x5qgFTw" xmi:id="_6e7VU7BwEemRMJ6x5qgFTw"
+      xsi:type="uml:BehaviorExecutionSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VVLBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_U043QHgUEDebu8P1RapPJQ" xmi:id="_6e7VVbBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+      <generalOrdering before="_6e7VgLBwEemRMJ6x5qgFTw" xmi:id="_6e7VVrBwEemRMJ6x5qgFTw">
+        <eAnnotations source="genmymodel" xmi:id="_6e7VV7BwEemRMJ6x5qgFTw">
+          <details key="uuid" value="_mAPz0JKeEDerrKVHbzA-qw" xmi:id="_6e7VWLBwEemRMJ6x5qgFTw"/>
+        </eAnnotations>
+      </generalOrdering>
+      <generalOrdering before="_6e7VibBwEemRMJ6x5qgFTw" xmi:id="_6e7VWbBwEemRMJ6x5qgFTw">
+        <eAnnotations source="genmymodel" xmi:id="_6e7VWrBwEemRMJ6x5qgFTw">
+          <details key="uuid" value="_mAVTYJKeEDerrKVHbzA-qw" xmi:id="_6e7VW7BwEemRMJ6x5qgFTw"/>
+        </eAnnotations>
+      </generalOrdering>
+    </fragment>
+    <fragment covered="_6e7VSrBwEemRMJ6x5qgFTw" message="_6e7VmLBwEemRMJ6x5qgFTw"
+      xmi:id="_6e7VXLBwEemRMJ6x5qgFTw" xsi:type="uml:MessageOccurrenceSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VXbBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_U043QXgUEDebu8P1RapPJQ" xmi:id="_6e7VXrBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_6e7VTbBwEemRMJ6x5qgFTw" message="_6e7VmLBwEemRMJ6x5qgFTw"
+      xmi:id="_6e7VX7BwEemRMJ6x5qgFTw" xsi:type="uml:MessageOccurrenceSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VYLBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_U05eUHgUEDebu8P1RapPJQ" xmi:id="_6e7VYbBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_6e7VTbBwEemRMJ6x5qgFTw" message="_6e7Vm7BwEemRMJ6x5qgFTw"
+      xmi:id="_6e7VYrBwEemRMJ6x5qgFTw" xsi:type="uml:MessageOccurrenceSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VY7BwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_U05eUngUEDebu8P1RapPJQ" xmi:id="_6e7VZLBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_6e7VSrBwEemRMJ6x5qgFTw" message="_6e7Vm7BwEemRMJ6x5qgFTw"
+      xmi:id="_6e7VZbBwEemRMJ6x5qgFTw" xsi:type="uml:MessageOccurrenceSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VZrBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_U06FYHgUEDebu8P1RapPJQ" xmi:id="_6e7VZ7BwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_6e7VTbBwEemRMJ6x5qgFTw" finish="_6e7VcbBwEemRMJ6x5qgFTw"
+      start="_6e7VbrBwEemRMJ6x5qgFTw" xmi:id="_6e7VaLBwEemRMJ6x5qgFTw"
+      xsi:type="uml:BehaviorExecutionSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VabBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_YiH-AHgUEDebu8P1RapPJQ" xmi:id="_6e7VarBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_6e7VSrBwEemRMJ6x5qgFTw" message="_6e7VnrBwEemRMJ6x5qgFTw"
+      xmi:id="_6e7Va7BwEemRMJ6x5qgFTw" xsi:type="uml:MessageOccurrenceSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VbLBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_YiH-AXgUEDebu8P1RapPJQ" xmi:id="_6e7VbbBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_6e7VTbBwEemRMJ6x5qgFTw" message="_6e7VnrBwEemRMJ6x5qgFTw"
+      xmi:id="_6e7VbrBwEemRMJ6x5qgFTw" xsi:type="uml:MessageOccurrenceSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_6e7Vb7BwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_YiH-AngUEDebu8P1RapPJQ" xmi:id="_6e7VcLBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_6e7VTbBwEemRMJ6x5qgFTw" xmi:id="_6e7VcbBwEemRMJ6x5qgFTw"
+      xsi:type="uml:ExecutionOccurrenceSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VcrBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_YiH-BHgUEDebu8P1RapPJQ" xmi:id="_6e7Vc7BwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_6e7VSrBwEemRMJ6x5qgFTw" xmi:id="_6e7VdLBwEemRMJ6x5qgFTw"
+      xsi:type="uml:ExecutionOccurrenceSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VdbBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_apiWcXgUEDebu8P1RapPJQ" xmi:id="_6e7VdrBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_6e7VSrBwEemRMJ6x5qgFTw" xmi:id="_6e7Vd7BwEemRMJ6x5qgFTw"
+      xsi:type="uml:ExecutionOccurrenceSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VeLBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_apiWcngUEDebu8P1RapPJQ" xmi:id="_6e7VebBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_6e7VSrBwEemRMJ6x5qgFTw" finish="_6e7Vd7BwEemRMJ6x5qgFTw"
+      name="selfMessageExecution" start="_6e7VdLBwEemRMJ6x5qgFTw" xmi:id="_6e7VerBwEemRMJ6x5qgFTw"
+      xsi:type="uml:BehaviorExecutionSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_6e7Ve7BwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_apiWc3gUEDebu8P1RapPJQ" xmi:id="_6e7VfLBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_6e7VULBwEemRMJ6x5qgFTw" finish="_6e7VhrBwEemRMJ6x5qgFTw"
+      start="_6e7Vg7BwEemRMJ6x5qgFTw" xmi:id="_6e7VfbBwEemRMJ6x5qgFTw"
+      xsi:type="uml:BehaviorExecutionSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VfrBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_mAJGIJKeEDerrKVHbzA-qw" xmi:id="_6e7Vf7BwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_6e7VTbBwEemRMJ6x5qgFTw" message="_6e7VobBwEemRMJ6x5qgFTw"
+      toAfter="_6e7VVrBwEemRMJ6x5qgFTw" xmi:id="_6e7VgLBwEemRMJ6x5qgFTw"
+      xsi:type="uml:MessageOccurrenceSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VgbBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_mAMwgJKeEDerrKVHbzA-qw" xmi:id="_6e7VgrBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_6e7VULBwEemRMJ6x5qgFTw" message="_6e7VobBwEemRMJ6x5qgFTw"
+      xmi:id="_6e7Vg7BwEemRMJ6x5qgFTw" xsi:type="uml:MessageOccurrenceSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VhLBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_mAN-oJKeEDerrKVHbzA-qw" xmi:id="_6e7VhbBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_6e7VULBwEemRMJ6x5qgFTw" message="_6e7VpLBwEemRMJ6x5qgFTw"
+      xmi:id="_6e7VhrBwEemRMJ6x5qgFTw" xsi:type="uml:MessageOccurrenceSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_6e7Vh7BwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_mARpAJKeEDerrKVHbzA-qw" xmi:id="_6e7ViLBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_6e7VTbBwEemRMJ6x5qgFTw" message="_6e7VpLBwEemRMJ6x5qgFTw"
+      toAfter="_6e7VWbBwEemRMJ6x5qgFTw" xmi:id="_6e7VibBwEemRMJ6x5qgFTw"
+      xsi:type="uml:MessageOccurrenceSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VirBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_mAS3IJKeEDerrKVHbzA-qw" xmi:id="_6e7Vi7BwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_6e7VSrBwEemRMJ6x5qgFTw" finish="_6e7VlbBwEemRMJ6x5qgFTw"
+      start="_6e7VkrBwEemRMJ6x5qgFTw" xmi:id="_6e7VjLBwEemRMJ6x5qgFTw"
+      xsi:type="uml:BehaviorExecutionSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VjbBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_z5XfwJKeEDerrKVHbzA-qw" xmi:id="_6e7VjrBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_6e7VULBwEemRMJ6x5qgFTw" message="_6e7Vp7BwEemRMJ6x5qgFTw"
+      xmi:id="_6e7Vj7BwEemRMJ6x5qgFTw" xsi:type="uml:MessageOccurrenceSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VkLBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_z5Z8AJKeEDerrKVHbzA-qw" xmi:id="_6e7VkbBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_6e7VSrBwEemRMJ6x5qgFTw" message="_6e7Vp7BwEemRMJ6x5qgFTw"
+      xmi:id="_6e7VkrBwEemRMJ6x5qgFTw" xsi:type="uml:MessageOccurrenceSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_6e7Vk7BwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_z5ajEJKeEDerrKVHbzA-qw" xmi:id="_6e7VlLBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_6e7VSrBwEemRMJ6x5qgFTw" xmi:id="_6e7VlbBwEemRMJ6x5qgFTw"
+      xsi:type="uml:ExecutionOccurrenceSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VlrBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_z5bxMJKeEDerrKVHbzA-qw" xmi:id="_6e7Vl7BwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </fragment>
+    <lifeline coveredBy="_6e7VXLBwEemRMJ6x5qgFTw _6e7VZbBwEemRMJ6x5qgFTw _6e7Va7BwEemRMJ6x5qgFTw _6e7VdLBwEemRMJ6x5qgFTw _6e7Vd7BwEemRMJ6x5qgFTw _6e7VerBwEemRMJ6x5qgFTw _6e7VjLBwEemRMJ6x5qgFTw _6e7VkrBwEemRMJ6x5qgFTw _6e7VlbBwEemRMJ6x5qgFTw" name="testObject:TestClass"
+      xmi:id="_6e7VSrBwEemRMJ6x5qgFTw">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VS7BwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_PnSxAHgUEDebu8P1RapPJQ" xmi:id="_6e7VTLBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </lifeline>
+    <lifeline coveredBy="_6e7VU7BwEemRMJ6x5qgFTw _6e7VX7BwEemRMJ6x5qgFTw _6e7VYrBwEemRMJ6x5qgFTw _6e7VaLBwEemRMJ6x5qgFTw _6e7VbrBwEemRMJ6x5qgFTw _6e7VcbBwEemRMJ6x5qgFTw _6e7VgLBwEemRMJ6x5qgFTw _6e7VibBwEemRMJ6x5qgFTw" name=":NonObjectTestClass"
+      xmi:id="_6e7VTbBwEemRMJ6x5qgFTw">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VTrBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_R6m3cHgUEDebu8P1RapPJQ" xmi:id="_6e7VT7BwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </lifeline>
+    <lifeline coveredBy="_6e7VfbBwEemRMJ6x5qgFTw _6e7Vg7BwEemRMJ6x5qgFTw _6e7VhrBwEemRMJ6x5qgFTw _6e7Vj7BwEemRMJ6x5qgFTw" name=":AdditionalTestClass"
+      xmi:id="_6e7VULBwEemRMJ6x5qgFTw">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VUbBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_ZvTmoJKeEDerrKVHbzA-qw" xmi:id="_6e7VUrBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </lifeline>
+    <message name="synchronousMessageCall" receiveEvent="_6e7VX7BwEemRMJ6x5qgFTw"
+      sendEvent="_6e7VXLBwEemRMJ6x5qgFTw" xmi:id="_6e7VmLBwEemRMJ6x5qgFTw">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VmbBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_U05eUXgUEDebu8P1RapPJQ" xmi:id="_6e7VmrBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </message>
+    <message messageSort="reply" name="return synchronousMessageResponse"
+      receiveEvent="_6e7VZbBwEemRMJ6x5qgFTw" sendEvent="_6e7VYrBwEemRMJ6x5qgFTw"
+      xmi:id="_6e7Vm7BwEemRMJ6x5qgFTw">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VnLBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_U06FYXgUEDebu8P1RapPJQ" xmi:id="_6e7VnbBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </message>
+    <message messageSort="asynchCall" name="asynchronousMessageCall"
+      receiveEvent="_6e7VbrBwEemRMJ6x5qgFTw" sendEvent="_6e7Va7BwEemRMJ6x5qgFTw"
+      xmi:id="_6e7VnrBwEemRMJ6x5qgFTw">
+      <eAnnotations source="genmymodel" xmi:id="_6e7Vn7BwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_YiH-A3gUEDebu8P1RapPJQ" xmi:id="_6e7VoLBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </message>
+    <message name="intermediateMessageCall" receiveEvent="_6e7Vg7BwEemRMJ6x5qgFTw"
+      sendEvent="_6e7VgLBwEemRMJ6x5qgFTw" xmi:id="_6e7VobBwEemRMJ6x5qgFTw">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VorBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_mAPMwJKeEDerrKVHbzA-qw" xmi:id="_6e7Vo7BwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </message>
+    <message messageSort="reply" name="return whatever" receiveEvent="_6e7VibBwEemRMJ6x5qgFTw"
+      sendEvent="_6e7VhrBwEemRMJ6x5qgFTw" xmi:id="_6e7VpLBwEemRMJ6x5qgFTw">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VpbBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_mATeMJKeEDerrKVHbzA-qw" xmi:id="_6e7VprBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </message>
+    <message messageSort="asynchCall" name="call" receiveEvent="_6e7VkrBwEemRMJ6x5qgFTw"
+      sendEvent="_6e7Vj7BwEemRMJ6x5qgFTw" xmi:id="_6e7Vp7BwEemRMJ6x5qgFTw">
+      <eAnnotations source="genmymodel" xmi:id="_6e7VqLBwEemRMJ6x5qgFTw">
+        <details key="uuid" value="_z5bKIJKeEDerrKVHbzA-qw" xmi:id="_6e7VqbBwEemRMJ6x5qgFTw"/>
+      </eAnnotations>
+    </message>
+  </packagedElement>
+</uml:Model>

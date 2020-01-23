@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_vvFFEPZFEemEXt2Xl4w-3Q" name="model">
+  <eAnnotations xmi:id="_vvFFEfZFEemEXt2Xl4w-3Q" source="genmymodel">
+    <details xmi:id="_vvFFEvZFEemEXt2Xl4w-3Q" key="uuid" value="d5111322-ceb9-4db5-ab28-ea76f18ff63f"/>
+    <details xmi:id="_vvFFE_ZFEemEXt2Xl4w-3Q" key="author" value="derlehner"/>
+  </eAnnotations>
+  <packageImport xmi:id="_vvFFFPZFEemEXt2Xl4w-3Q">
+    <eAnnotations xmi:id="_vvFFFfZFEemEXt2Xl4w-3Q" source="genmymodel">
+      <details xmi:id="_vvFFFvZFEemEXt2Xl4w-3Q" key="uuid" value="_glQY8ZGtEemulJ0qKDHQCA"/>
+    </eAnnotations>
+    <importedPackage href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#/"/>
+  </packageImport>
+  <packagedElement xsi:type="uml:Interaction" xmi:id="_vvFFF_ZFEemEXt2Xl4w-3Q" name="Interaction">
+    <eAnnotations xmi:id="_vvFFGPZFEemEXt2Xl4w-3Q" source="genmymodel">
+      <details xmi:id="_vvFFGfZFEemEXt2Xl4w-3Q" key="uuid" value="_glQY8pGtEemulJ0qKDHQCA"/>
+    </eAnnotations>
+    <lifeline xmi:id="_vvFFGvZFEemEXt2Xl4w-3Q" name="myCar:CarHandler" coveredBy="_vvFFI_ZFEemEXt2Xl4w-3Q _vvFFJvZFEemEXt2Xl4w-3Q _vvFFKfZFEemEXt2Xl4w-3Q _vvFFL_ZFEemEXt2Xl4w-3Q _vvFFOPZFEemEXt2Xl4w-3Q">
+      <eAnnotations xmi:id="_vvFFG_ZFEemEXt2Xl4w-3Q" source="genmymodel">
+        <details xmi:id="_vvFFHPZFEemEXt2Xl4w-3Q" key="uuid" value="_L7tO0HPcEDeIj9bRQclIlQ"/>
+      </eAnnotations>
+    </lifeline>
+    <lifeline xmi:id="_vvFFHfZFEemEXt2Xl4w-3Q" name="myBrake:Brake">
+      <eAnnotations xmi:id="_vvFFHvZFEemEXt2Xl4w-3Q" source="genmymodel">
+        <details xmi:id="_vvFFH_ZFEemEXt2Xl4w-3Q" key="uuid" value="_NbSLMHPcEDeIj9bRQclIlQ"/>
+      </eAnnotations>
+    </lifeline>
+    <lifeline xmi:id="_vvFFIPZFEemEXt2Xl4w-3Q" name="myAccelerator:Accelerator" coveredBy="_vvFFLPZFEemEXt2Xl4w-3Q _vvFFMvZFEemEXt2Xl4w-3Q _vvFFNfZFEemEXt2Xl4w-3Q">
+      <eAnnotations xmi:id="_vvFFIfZFEemEXt2Xl4w-3Q" source="genmymodel">
+        <details xmi:id="_vvFFIvZFEemEXt2Xl4w-3Q" key="uuid" value="_PyjkkHPcEDeIj9bRQclIlQ"/>
+      </eAnnotations>
+    </lifeline>
+    <fragment xsi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_vvFFI_ZFEemEXt2Xl4w-3Q" covered="_vvFFGvZFEemEXt2Xl4w-3Q">
+      <eAnnotations xmi:id="_vvFFJPZFEemEXt2Xl4w-3Q" source="genmymodel">
+        <details xmi:id="_vvFFJfZFEemEXt2Xl4w-3Q" key="uuid" value="_cq9aYXPcEDeklsk_CRMOYQ"/>
+      </eAnnotations>
+    </fragment>
+    <fragment xsi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_vvFFJvZFEemEXt2Xl4w-3Q" covered="_vvFFGvZFEemEXt2Xl4w-3Q">
+      <eAnnotations xmi:id="_vvFFJ_ZFEemEXt2Xl4w-3Q" source="genmymodel">
+        <details xmi:id="_vvFFKPZFEemEXt2Xl4w-3Q" key="uuid" value="_cq-ogHPcEDeklsk_CRMOYQ"/>
+      </eAnnotations>
+    </fragment>
+    <fragment xsi:type="uml:BehaviorExecutionSpecification" xmi:id="_vvFFKfZFEemEXt2Xl4w-3Q" name="calculateDesiredSpeed" covered="_vvFFGvZFEemEXt2Xl4w-3Q" finish="_vvFFJvZFEemEXt2Xl4w-3Q" start="_vvFFI_ZFEemEXt2Xl4w-3Q">
+      <eAnnotations xmi:id="_vvFFKvZFEemEXt2Xl4w-3Q" source="genmymodel">
+        <details xmi:id="_vvFFK_ZFEemEXt2Xl4w-3Q" key="uuid" value="_cq-ogXPcEDeklsk_CRMOYQ"/>
+      </eAnnotations>
+    </fragment>
+    <fragment xsi:type="uml:BehaviorExecutionSpecification" xmi:id="_vvFFLPZFEemEXt2Xl4w-3Q" covered="_vvFFIPZFEemEXt2Xl4w-3Q" finish="_vvFFNfZFEemEXt2Xl4w-3Q" start="_vvFFMvZFEemEXt2Xl4w-3Q">
+      <eAnnotations xmi:id="_vvFFLfZFEemEXt2Xl4w-3Q" source="genmymodel">
+        <details xmi:id="_vvFFLvZFEemEXt2Xl4w-3Q" key="uuid" value="_iv-Q0HPcEDeklsk_CRMOYQ"/>
+      </eAnnotations>
+    </fragment>
+    <fragment xsi:type="uml:MessageOccurrenceSpecification" xmi:id="_vvFFL_ZFEemEXt2Xl4w-3Q" covered="_vvFFGvZFEemEXt2Xl4w-3Q" message="_vvFFO_ZFEemEXt2Xl4w-3Q">
+      <eAnnotations xmi:id="_vvFFMPZFEemEXt2Xl4w-3Q" source="genmymodel">
+        <details xmi:id="_vvFFMfZFEemEXt2Xl4w-3Q" key="uuid" value="_iv_e8HPcEDeklsk_CRMOYQ"/>
+      </eAnnotations>
+    </fragment>
+    <fragment xsi:type="uml:MessageOccurrenceSpecification" xmi:id="_vvFFMvZFEemEXt2Xl4w-3Q" covered="_vvFFIPZFEemEXt2Xl4w-3Q" message="_vvFFO_ZFEemEXt2Xl4w-3Q">
+      <eAnnotations xmi:id="_vvFFM_ZFEemEXt2Xl4w-3Q" source="genmymodel">
+        <details xmi:id="_vvFFNPZFEemEXt2Xl4w-3Q" key="uuid" value="_iwAGAHPcEDeklsk_CRMOYQ"/>
+      </eAnnotations>
+    </fragment>
+    <fragment xsi:type="uml:MessageOccurrenceSpecification" xmi:id="_vvFFNfZFEemEXt2Xl4w-3Q" covered="_vvFFIPZFEemEXt2Xl4w-3Q" message="_vvFFPvZFEemEXt2Xl4w-3Q">
+      <eAnnotations xmi:id="_vvFFNvZFEemEXt2Xl4w-3Q" source="genmymodel">
+        <details xmi:id="_vvFFN_ZFEemEXt2Xl4w-3Q" key="uuid" value="_iwBUIHPcEDeklsk_CRMOYQ"/>
+      </eAnnotations>
+    </fragment>
+    <fragment xsi:type="uml:MessageOccurrenceSpecification" xmi:id="_vvFFOPZFEemEXt2Xl4w-3Q" covered="_vvFFGvZFEemEXt2Xl4w-3Q" message="_vvFFPvZFEemEXt2Xl4w-3Q">
+      <eAnnotations xmi:id="_vvFFOfZFEemEXt2Xl4w-3Q" source="genmymodel">
+        <details xmi:id="_vvFFOvZFEemEXt2Xl4w-3Q" key="uuid" value="_iwB7MHPcEDeklsk_CRMOYQ"/>
+      </eAnnotations>
+    </fragment>
+    <message xmi:id="_vvFFO_ZFEemEXt2Xl4w-3Q" name="speedUp" receiveEvent="_vvFFMvZFEemEXt2Xl4w-3Q" sendEvent="_vvFFL_ZFEemEXt2Xl4w-3Q">
+      <eAnnotations xmi:id="_vvFFPPZFEemEXt2Xl4w-3Q" source="genmymodel">
+        <details xmi:id="_vvFFPfZFEemEXt2Xl4w-3Q" key="uuid" value="_iwAtEHPcEDeklsk_CRMOYQ"/>
+      </eAnnotations>
+    </message>
+    <message xmi:id="_vvFFPvZFEemEXt2Xl4w-3Q" name="return" messageSort="reply" receiveEvent="_vvFFOPZFEemEXt2Xl4w-3Q" sendEvent="_vvFFNfZFEemEXt2Xl4w-3Q">
+      <eAnnotations xmi:id="_vvFFP_ZFEemEXt2Xl4w-3Q" source="genmymodel">
+        <details xmi:id="_vvFFQPZFEemEXt2Xl4w-3Q" key="uuid" value="_iwB7MXPcEDeklsk_CRMOYQ"/>
+      </eAnnotations>
+    </message>
+  </packagedElement>
+</uml:Model>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_rrFKgPPcEemHM9iiStVq9Q" name="AD_cd-varyentities-equaldistribution-5entities">
+  <packagedElement xmi:type="uml:Activity" xmi:id="_rrFKgfPcEemHM9iiStVq9Q" name="Activity" node="_rrFKh_PcEemHM9iiStVq9Q _rrFKiPPcEemHM9iiStVq9Q _rrFKifPcEemHM9iiStVq9Q _rrFKivPcEemHM9iiStVq9Q _rrFKi_PcEemHM9iiStVq9Q">
+    <edge xmi:type="uml:ControlFlow" xmi:id="_rrFKgvPcEemHM9iiStVq9Q" name="Edge1" target="_rrFKiPPcEemHM9iiStVq9Q" source="_rrFKh_PcEemHM9iiStVq9Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_rrFKg_PcEemHM9iiStVq9Q" name="Edge2" target="_rrFKifPcEemHM9iiStVq9Q" source="_rrFKiPPcEemHM9iiStVq9Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_rrFKhPPcEemHM9iiStVq9Q" name="Edge3" target="_rrFKivPcEemHM9iiStVq9Q" source="_rrFKifPcEemHM9iiStVq9Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_rrFKhfPcEemHM9iiStVq9Q" name="Edge4" target="_rrFKi_PcEemHM9iiStVq9Q" source="_rrFKivPcEemHM9iiStVq9Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_rrFKhvPcEemHM9iiStVq9Q" name="EndlessLoopEdge" target="_rrFKh_PcEemHM9iiStVq9Q" source="_rrFKi_PcEemHM9iiStVq9Q"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_rrFKh_PcEemHM9iiStVq9Q" name="Iteration 0:Class0.operation0()" incoming="_rrFKhvPcEemHM9iiStVq9Q" outgoing="_rrFKgvPcEemHM9iiStVq9Q"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_rrFKiPPcEemHM9iiStVq9Q" name="Iteration 0:Class1.operation1()" incoming="_rrFKgvPcEemHM9iiStVq9Q" outgoing="_rrFKg_PcEemHM9iiStVq9Q"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_rrFKifPcEemHM9iiStVq9Q" name="Iteration 0:Class2.operation2()" incoming="_rrFKg_PcEemHM9iiStVq9Q" outgoing="_rrFKhPPcEemHM9iiStVq9Q"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_rrFKivPcEemHM9iiStVq9Q" name="Iteration 0:Class3.operation3()" incoming="_rrFKhPPcEemHM9iiStVq9Q" outgoing="_rrFKhfPcEemHM9iiStVq9Q"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_rrFKi_PcEemHM9iiStVq9Q" name="Iteration 0:Class4.operation4()" incoming="_rrFKhfPcEemHM9iiStVq9Q" outgoing="_rrFKhvPcEemHM9iiStVq9Q"/>
+  </packagedElement>
+</uml:Model>

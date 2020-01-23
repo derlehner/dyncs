@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmlns:xmi="http://www.omg.org/XMI"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  name="model" xmi:id="_uC-XQJyuEemUvaGckkfZSw" xmi:version="2.0">
+  <eAnnotations source="genmymodel" xmi:id="_uC-XQZyuEemUvaGckkfZSw">
+    <details key="uuid" value="a4ea192e-eb16-450d-8a6f-61cc92f7f098"
+      xmi:id="_uC-XQpyuEemUvaGckkfZSw"/>
+    <details key="author" value="derlehner" xmi:id="_uC-XQ5yuEemUvaGckkfZSw"/>
+  </eAnnotations>
+  <packageImport xmi:id="_uC-XRJyuEemUvaGckkfZSw">
+    <eAnnotations source="genmymodel" xmi:id="_uC-XRZyuEemUvaGckkfZSw">
+      <details key="uuid" value="_PFuLwZXmEemDRadoXsoCJA" xmi:id="_uC-XRpyuEemUvaGckkfZSw"/>
+    </eAnnotations>
+    <importedPackage href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#/"/>
+  </packageImport>
+  <packagedElement name="Interaction" xmi:id="_uC-XR5yuEemUvaGckkfZSw" xsi:type="uml:Interaction">
+    <eAnnotations source="genmymodel" xmi:id="_uC-XSJyuEemUvaGckkfZSw">
+      <details key="uuid" value="_PFuLwpXmEemDRadoXsoCJA" xmi:id="_uC-XSZyuEemUvaGckkfZSw"/>
+    </eAnnotations>
+    <fragment covered="_uC-XTZyuEemUvaGckkfZSw" finish="_uC-XWZyuEemUvaGckkfZSw"
+      start="_uC-XVpyuEemUvaGckkfZSw" xmi:id="_uC-XUJyuEemUvaGckkfZSw"
+      xsi:type="uml:BehaviorExecutionSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_uC-XUZyuEemUvaGckkfZSw">
+        <details key="uuid" value="_hOL_YX7cEDeQ9InaPCjaOg" xmi:id="_uC-XUpyuEemUvaGckkfZSw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_uC-XSpyuEemUvaGckkfZSw" message="_uC-XXJyuEemUvaGckkfZSw"
+      xmi:id="_uC-XU5yuEemUvaGckkfZSw" xsi:type="uml:MessageOccurrenceSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_uC-XVJyuEemUvaGckkfZSw">
+        <details key="uuid" value="_hOMmcH7cEDeQ9InaPCjaOg" xmi:id="_uC-XVZyuEemUvaGckkfZSw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_uC-XTZyuEemUvaGckkfZSw" message="_uC-XXJyuEemUvaGckkfZSw"
+      xmi:id="_uC-XVpyuEemUvaGckkfZSw" xsi:type="uml:MessageOccurrenceSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_uC-XV5yuEemUvaGckkfZSw">
+        <details key="uuid" value="_hOMmcX7cEDeQ9InaPCjaOg" xmi:id="_uC-XWJyuEemUvaGckkfZSw"/>
+      </eAnnotations>
+    </fragment>
+    <fragment covered="_uC-XTZyuEemUvaGckkfZSw" xmi:id="_uC-XWZyuEemUvaGckkfZSw"
+      xsi:type="uml:ExecutionOccurrenceSpecification">
+      <eAnnotations source="genmymodel" xmi:id="_uC-XWpyuEemUvaGckkfZSw">
+        <details key="uuid" value="_hONNgH7cEDeQ9InaPCjaOg" xmi:id="_uC-XW5yuEemUvaGckkfZSw"/>
+      </eAnnotations>
+    </fragment>
+    <lifeline coveredBy="_uC-XU5yuEemUvaGckkfZSw" name="testObject"
+      xmi:id="_uC-XSpyuEemUvaGckkfZSw">
+      <eAnnotations source="genmymodel" xmi:id="_uC-XS5yuEemUvaGckkfZSw">
+        <details key="uuid" value="_R6m3cHgUEDebu8P1RapPJQ" xmi:id="_uC-XTJyuEemUvaGckkfZSw"/>
+      </eAnnotations>
+    </lifeline>
+    <lifeline coveredBy="_uC-XUJyuEemUvaGckkfZSw _uC-XVpyuEemUvaGckkfZSw _uC-XWZyuEemUvaGckkfZSw" name="myBrake:Brake"
+      xmi:id="_uC-XTZyuEemUvaGckkfZSw">
+      <eAnnotations source="genmymodel" xmi:id="_uC-XTpyuEemUvaGckkfZSw">
+        <details key="uuid" value="_fA5BYH7cEDeQ9InaPCjaOg" xmi:id="_uC-XT5yuEemUvaGckkfZSw"/>
+      </eAnnotations>
+    </lifeline>
+    <message messageSort="asynchCall" name="brake" receiveEvent="_uC-XVpyuEemUvaGckkfZSw"
+      sendEvent="_uC-XU5yuEemUvaGckkfZSw" xmi:id="_uC-XXJyuEemUvaGckkfZSw">
+      <eAnnotations source="genmymodel" xmi:id="_uC-XXZyuEemUvaGckkfZSw">
+        <details key="uuid" value="_hOMmcn7cEDeQ9InaPCjaOg" xmi:id="_uC-XXpyuEemUvaGckkfZSw"/>
+      </eAnnotations>
+    </message>
+  </packagedElement>
+</uml:Model>

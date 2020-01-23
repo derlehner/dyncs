@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6ef8445-ba7b-4f9d-87a6-b280e9199714" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/service/impl/UmlModelValidationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/service/impl/UmlModelValidationServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/test/resources/test-data/da-sequence-ad-decision-ok2.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/test/resources/test-data/da-sequence-ad-decision-ok2.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/test/resources/test-data/da-sequence-ad-fork-ok3.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/test/resources/test-data/da-sequence-ad-fork-ok3.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/test/resources/test-data/da-sequence-ad-fork-ok4.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/test/resources/test-data/da-sequence-ad-fork-ok4.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/at/ac/tuwien/big/ame/dyncs/server/service/impl/UmlModelValidationServiceImpl$ModelVerifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/at/ac/tuwien/big/ame/dyncs/server/service/impl/UmlModelValidationServiceImpl$ModelVerifier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/at/ac/tuwien/big/ame/dyncs/server/service/impl/UmlModelValidationServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/at/ac/tuwien/big/ame/dyncs/server/service/impl/UmlModelValidationServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/test-classes/at/ac/tuwien/big/ame/somqm/server/integration/VerifySequenceDiagramIT.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/test-classes/at/ac/tuwien/big/ame/somqm/server/integration/VerifySequenceDiagramIT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/test-classes/test-data/da-sequence-ad-decision-ok2.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/test-classes/test-data/da-sequence-ad-decision-ok2.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../somqm" beforeDir="false" afterPath="$PROJECT_DIR$/../somqm" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/server/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/service/impl/UmlModelValidationServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="271" selection-start-line="271" selection-end-line="271" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#checkMessageAllowedByOperationReturnType#0;class#ModelVerifier#0;class#UmlModelValidationServiceImpl#0" />
+                <element signature="method#getSuperClasses#0;class#ModelVerifier#0;class#UmlModelValidationServiceImpl#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/test/java/at/ac/tuwien/big/ame/somqm/server/integration/VerifySequenceDiagramIT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="96" selection-start-line="96" selection-end-line="96" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#verifySD_ClassDiagram_Positive#0;class#VerifySequenceDiagramIT#0" />
+                <element signature="method#verifySD_ClassDiagram_Negative#0;class#VerifySequenceDiagramIT#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/src/test/resources/test-data/da-sequence-ad-fork-ok4 (1).xmi">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/test/resources/test-data/da-sequence-ad-fork-ok4.xmi">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/test/resources/test-data/da-sequence-ad-fork-ok3.xmi">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/test/resources/test-data/da-sequence-ad-decision-ok2.xmi">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>junit</find>
+      <find>getAl</find>
+      <find>Sub</find>
+      <find>t</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/classmodelspecifics/GetAttributesAggregationRequest.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/classmodelspecifics/GetOperationsAggregationRequest.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/statemachinemodelspecifics/GetFunctionCallsAggregationRequest.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/statemachinemodelspecifics/StateMachineModelRelationInfo.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/GetAllAggregationRequest.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/GetEntitiesRequest.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/GetPackagesAggregationRequest.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/GetPackagesRequest.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/GetRelationsAggregationRequest.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/GetRelationsRequest.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/GetAllRequest.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/statemachinemodelspecifics/GetFunctionCallsRequest.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/classmodelspecifics/GetOperationsRequest.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/classmodelspecifics/GetAttributesRequest.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/service/UmlModelValidationService.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/service/impl/Helper/DtoExtractor.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/util/ExampleDataGenerator.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/umlmodel/UmlModelDetails.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/umlmodel/UmlModelSummary.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/GetRelationsResult.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/GetEntitiesResult.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/EntityInfo.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/statemachinemodelspecifics/StateMachineModelEntityInfo.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/activitymodelspecifics/ActivityModelEntityInfo.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/statemachinemodelspecifics/State.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/statemachinemodelspecifics/Pseudostate.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/activitymodelspecifics/Action.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/activitymodelspecifics/Node.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/activitymodelspecifics/Activity.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/statemachinemodelspecifics/FinalState.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/rest/ModelValidationController.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/UmlRequirements.java" />
+        <option value="$PROJECT_DIR$/server/pom.xml" />
+        <option value="$PROJECT_DIR$/server/src/test/java/at/ac/tuwien/big/ame/somqm/server/util/CustomMatchers.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/runtime/modelspecifics/Message.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/runtime/modelspecifics/enumeration/MessageType.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/runtime/modelspecifics/SequenceDiagram.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/runtime/modelspecifics/LifeLine.java" />
+        <option value="$PROJECT_DIR$/server/src/test/java/at/ac/tuwien/big/ame/somqm/server/unit/service/LoadDynamicSDUT.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/classmodelspecifics/ClassModelGeneralizationRelationInfo.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/classmodelspecifics/ClassModelInterfaceRealizationRelationInfo.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/classmodelspecifics/ClassModelDefaultRelationInfo.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/classmodelspecifics/ClassModelEntityInfo.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/RelationInfo.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/GetAllResult.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/classmodelspecifics/GetAllResultClassModel.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/classmodelspecifics/ClassModelRelationInfo.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/service/impl/SomqmRequirementsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/service/RequirementsService.java" />
+        <option value="$PROJECT_DIR$/server/src/test/java/at/ac/tuwien/big/ame/somqm/server/integration/VerifySequenceDiagramIT.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/service/impl/UmlModelValidationServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="527" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dyncs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CheckingService" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dyncs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CheckingService" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dyncs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CheckingService" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dyncs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CheckingService" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dyncs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CheckingService" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dyncs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CheckingService" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dyncs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CheckingService" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dyncs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CheckingService" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dyncs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CheckingService" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dyncs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CheckingService" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dyncs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CheckingService" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dyncs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CheckingService" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dyncs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CheckingService" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="integration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dyncs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CheckingService" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dyncs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CheckingService" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="test-data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server/src/test/resources/test-data" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\danie\Desktop\GIT\Uni\diplomarbeit\CheckingService\server\src\test\resources\test-data" />
+      <recent name="C:\Users\danie\Desktop\GIT\Uni\diplomarbeit\CheckingService\server\src\main\java\at\ac\tuwien\big\ame\dyncs\server\dto\umlmodel" />
+      <recent name="C:\Users\danie\Desktop\GIT\Uni\diplomarbeit\CheckingService\server\src\main\java\at\ac\tuwien\big\ame\dyncs\server\dto\" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="at.ac.tuwien.big.ame.dyncs.server.dto.query.umlmodelspecifics.classmodelspecifics" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\danie\Desktop\GIT\Uni\diplomarbeit\CheckingService\server\src\main\java\at\ac\tuwien\big\ame\dyncs\server\dto" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.VerifySequenceDiagramIT.verifySD_ActivityDiagram_Positive (2)">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifySequenceDiagramIT.verifySD_ActivityDiagram_Positive (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.ac.tuwien.big.ame.somqm.server.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.ac.tuwien.big.ame.somqm.server.integration" />
+      <option name="MAIN_CLASS_NAME" value="at.ac.tuwien.big.ame.somqm.server.integration.VerifySequenceDiagramIT" />
+      <option name="METHOD_NAME" value="verifySD_ActivityDiagram_Positive" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="[8: da-sequence-ad-flowend-ok.xmi]" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifySequenceDiagramIT.verifySD_ActivityDiagram_Positive (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.ac.tuwien.big.ame.somqm.server.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.ac.tuwien.big.ame.somqm.server.integration" />
+      <option name="MAIN_CLASS_NAME" value="at.ac.tuwien.big.ame.somqm.server.integration.VerifySequenceDiagramIT" />
+      <option name="METHOD_NAME" value="verifySD_ActivityDiagram_Positive" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="[12: da-sequence-ad-fork-ok4.xmi]" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifySequenceDiagramIT.verifySD_ActivityDiagram_Positive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.ac.tuwien.big.ame.somqm.server.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.ac.tuwien.big.ame.somqm.server.integration" />
+      <option name="MAIN_CLASS_NAME" value="at.ac.tuwien.big.ame.somqm.server.integration.VerifySequenceDiagramIT" />
+      <option name="METHOD_NAME" value="verifySD_ActivityDiagram_Positive" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifySequenceDiagramIT.verifySD_ClassDiagram_Negative (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.ac.tuwien.big.ame.somqm.server.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.ac.tuwien.big.ame.somqm.server.integration" />
+      <option name="MAIN_CLASS_NAME" value="at.ac.tuwien.big.ame.somqm.server.integration.VerifySequenceDiagramIT" />
+      <option name="METHOD_NAME" value="verifySD_ClassDiagram_Negative" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="[2: da-sequence-cd-nok-nonexistingclass.xmi, Call of getCurrentColor in TrafficLight from CarSystem is not allowed]" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifySequenceDiagramIT.verifySD_ClassDiagram_Negative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.ac.tuwien.big.ame.somqm.server.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.ac.tuwien.big.ame.somqm.server.integration" />
+      <option name="MAIN_CLASS_NAME" value="at.ac.tuwien.big.ame.somqm.server.integration.VerifySequenceDiagramIT" />
+      <option name="METHOD_NAME" value="verifySD_ClassDiagram_Negative" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.ac.tuwien.big.ame.dyncs.server.ServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VerifySequenceDiagramIT.verifySD_ActivityDiagram_Positive (2)" />
+        <item itemvalue="JUnit.VerifySequenceDiagramIT.verifySD_ActivityDiagram_Positive (1)" />
+        <item itemvalue="JUnit.VerifySequenceDiagramIT.verifySD_ActivityDiagram_Positive" />
+        <item itemvalue="JUnit.VerifySequenceDiagramIT.verifySD_ClassDiagram_Negative" />
+        <item itemvalue="JUnit.VerifySequenceDiagramIT.verifySD_ClassDiagram_Negative (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6ef8445-ba7b-4f9d-87a6-b280e9199714" name="Default Changelist" comment="" />
+      <created>1560586395452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560586395452</updated>
+      <workItem from="1560586396665" duration="11866000" />
+      <workItem from="1560971875896" duration="845000" />
+      <workItem from="1560972837835" duration="157000" />
+      <workItem from="1561315138316" duration="3983000" />
+      <workItem from="1561971648410" duration="636000" />
+      <workItem from="1562058505821" duration="4111000" />
+      <workItem from="1562408279351" duration="11301000" />
+      <workItem from="1562423896305" duration="994000" />
+      <workItem from="1562677783370" duration="2542000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="VerifySequenceDiagramIT_verifySD_ClassDiagram_Negative_(1) - 2019.07.09 at 15h 23m 28s.xml">
+      <configuration name="VerifySequenceDiagramIT.verifySD_ClassDiagram_Negative (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifySequenceDiagramIT_verifySD_ClassDiagram_Negative_(1) - 2019.07.09 at 15h 24m 18s.xml">
+      <configuration name="VerifySequenceDiagramIT.verifySD_ClassDiagram_Negative (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifySequenceDiagramIT_verifySD_ClassDiagram_Negative - 2019.07.09 at 15h 24m 31s.xml">
+      <configuration name="VerifySequenceDiagramIT.verifySD_ClassDiagram_Negative" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifySequenceDiagramIT_verifySD_ActivityDiagram_Positive - 2019.07.09 at 15h 30m 14s.xml">
+      <configuration name="VerifySequenceDiagramIT.verifySD_ActivityDiagram_Positive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifySequenceDiagramIT_verifySD_ActivityDiagram_Positive - 2019.07.09 at 15h 36m 56s.xml">
+      <configuration name="VerifySequenceDiagramIT.verifySD_ActivityDiagram_Positive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifySequenceDiagramIT_verifySD_ActivityDiagram_Positive - 2019.07.09 at 15h 38m 11s.xml">
+      <configuration name="VerifySequenceDiagramIT.verifySD_ActivityDiagram_Positive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifySequenceDiagramIT_verifySD_ActivityDiagram_Positive - 2019.07.09 at 15h 38m 25s.xml">
+      <configuration name="VerifySequenceDiagramIT.verifySD_ActivityDiagram_Positive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifySequenceDiagramIT_verifySD_ActivityDiagram_Positive - 2019.07.09 at 15h 38m 40s.xml">
+      <configuration name="VerifySequenceDiagramIT.verifySD_ActivityDiagram_Positive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifySequenceDiagramIT_verifySD_ActivityDiagram_Positive_(1) - 2019.07.09 at 15h 46m 40s.xml">
+      <configuration name="VerifySequenceDiagramIT.verifySD_ActivityDiagram_Positive (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifySequenceDiagramIT_verifySD_ActivityDiagram_Positive_(1) - 2019.07.09 at 15h 47m 19s.xml">
+      <configuration name="VerifySequenceDiagramIT.verifySD_ActivityDiagram_Positive (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37352000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2510661" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34019503" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/test/java/at/ac/tuwien/big/ame/somqm/server/unit/service/LoadDynamicSDUT.java</url>
+          <line>218</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/test/java/at/ac/tuwien/big/ame/somqm/server/unit/service/LoadDynamicSDUT.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/test/java/at/ac/tuwien/big/ame/somqm/server/unit/service/LoadDynamicSDUT.java</url>
+          <line>223</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/test/java/at/ac/tuwien/big/ame/somqm/server/unit/service/LoadDynamicSDUT.java</url>
+          <line>224</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/test/java/at/ac/tuwien/big/ame/somqm/server/unit/service/LoadDynamicSDUT.java</url>
+          <line>214</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/test/java/at/ac/tuwien/big/ame/somqm/server/unit/service/LoadDynamicSDUT.java</url>
+          <line>110</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/test/java/at/ac/tuwien/big/ame/somqm/server/unit/service/LoadDynamicSDUT.java</url>
+          <line>251</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/test/java/at/ac/tuwien/big/ame/somqm/server/unit/service/LoadDynamicSDUT.java</url>
+          <line>257</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/GetAllResult.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/GetAllResult.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/GetAllResult.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/GetAllResult.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/service/impl/SomqmRequirementsServiceImpl.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/service/impl/UmlModelValidationServiceImpl.java</url>
+          <line>261</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/service/impl/UmlModelValidationServiceImpl.java</url>
+          <line>266</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/service/impl/SomqmRequirementsServiceImpl.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/service/impl/UmlModelValidationServiceImpl.java</url>
+          <line>212</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/service/impl/UmlModelValidationServiceImpl.java</url>
+          <line>213</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="((LinkedHashMap.Entry)((LinkedHashMap)mapping).entrySet().toArray()[0]).getKey()" custom="java.util.LinkedHashMap.Entry,java.util.LinkedHashMap" />
+      </configuration>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="((MessageOccurrenceSpecificationImpl)((MessageImpl)msg).receiveEvent).eFlags" custom="org.eclipse.uml2.uml.internal.impl.MessageImpl,org.eclipse.uml2.uml.internal.impl.MessageOccurrenceSpecificationImpl" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/activitymodelspecifics/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/activitymodelspecifics/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="93" selection-start-column="93" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/statemachinemodelspecifics/FinalState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="97" selection-start-column="97" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/List.java" />
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/rest/ModelValidationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="44" column="27" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/UmlRequirements.java" />
+    <entry file="file://$PROJECT_DIR$/server/src/test/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/ServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/SearchUmlModelsRequest.java" />
+    <entry file="file://$PROJECT_DIR$/server/src/test/java/at/ac/tuwien/big/ame/somqm/server/integration/BaseIntegrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="112" column="38" selection-start-line="112" selection-start-column="38" selection-end-line="112" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/test/java/at/ac/tuwien/big/ame/somqm/server/util/CustomMatchers.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/runtime/modelspecifics/enumeration/MessageType.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/org/hamcrest/TypeSafeMatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/service/impl/Helper/DtoExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/runtime/modelspecifics/SequenceDiagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+          <folding>
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="30" column="40" selection-start-line="28" selection-start-column="12" selection-end-line="30" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/runtime/modelspecifics/LifeLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+          <folding>
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/test/java/at/ac/tuwien/big/ame/somqm/server/unit/service/LoadDynamicSDUT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="102" column="22" selection-start-line="102" selection-start-column="22" selection-end-line="102" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/test/java/at/ac/tuwien/big/ame/somqm/server/unit/service/BaseServiceUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/test/java/at/ac/tuwien/big/ame/somqm/server/unit/service/ModelVerificationUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/runtime/modelspecifics/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/classmodelspecifics/ClassModelGeneralizationRelationInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="95" selection-start-line="10" selection-start-column="95" selection-end-line="10" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/classmodelspecifics/ClassModelInterfaceRealizationRelationInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="101" selection-start-line="10" selection-start-column="101" selection-end-line="10" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE.jar!/org/springframework/boot/json/GsonJsonParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/classmodelspecifics/ClassAttribute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar!/org/springframework/http/converter/json/AbstractJackson2HttpMessageConverter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="166" selection-start-line="166" selection-end-line="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/classmodelspecifics/ClassModelDefaultRelationInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar!/com/fasterxml/jackson/annotation/JsonSubTypes.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/classmodelspecifics/enumeration/ClassType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/RelationInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/GetAllResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/classmodelspecifics/ClassModelEntityInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/classmodelspecifics/GetRelationsResultClassModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/classmodelspecifics/GetAllResultClassModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/umlmodelspecifics/classmodelspecifics/ClassModelRelationInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding>
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/dto/query/EntityInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ame/server/src/main/resources/example-data/genmymodel/ame-showcase-classdiagram.xmi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/test/resources/test-data/da-sequence-cd-nok-nonexistingclass.xmi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/tngtech/java/junit-dataprovider/1.10.0/junit-dataprovider-1.10.0.jar!/com/tngtech/java/junit/dataprovider/DataProviderFrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/test/java/at/ac/tuwien/big/ame/somqm/server/util/TestHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runner/manipulation/Filter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/service/UmlModelValidationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/service/impl/SomqmRequirementsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/service/RequirementsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/test/resources/test-data/da-sequence-ad-decision-ok2.xmi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/at/ac/tuwien/big/ame/dyncs/server/service/impl/UmlModelValidationServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="271" selection-start-line="271" selection-end-line="271" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#checkMessageAllowedByOperationReturnType#0;class#ModelVerifier#0;class#UmlModelValidationServiceImpl#0" />
+            <element signature="method#getSuperClasses#0;class#ModelVerifier#0;class#UmlModelValidationServiceImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/test/resources/test-data/da-sequence-ad-fork-ok3.xmi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/test/resources/test-data/da-sequence-ad-fork-ok4.xmi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/test/java/at/ac/tuwien/big/ame/somqm/server/integration/VerifySequenceDiagramIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#verifySD_ClassDiagram_Positive#0;class#VerifySequenceDiagramIT#0" />
+            <element signature="method#verifySD_ClassDiagram_Negative#0;class#VerifySequenceDiagramIT#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/test/resources/test-data/da-sequence-ad-fork-ok4 (1).xmi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

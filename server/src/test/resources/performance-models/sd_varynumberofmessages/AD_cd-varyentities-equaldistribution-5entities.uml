@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_wbJhEPP5EemmdLZfIVnMtQ" name="AD_cd-varyentities-equaldistribution-5entities">
+  <packagedElement xmi:type="uml:Activity" xmi:id="_wbJhEfP5EemmdLZfIVnMtQ" name="Activity" node="_wbJhF_P5EemmdLZfIVnMtQ _wbJhGPP5EemmdLZfIVnMtQ _wbJhGfP5EemmdLZfIVnMtQ _wbJhGvP5EemmdLZfIVnMtQ _wbJhG_P5EemmdLZfIVnMtQ">
+    <edge xmi:type="uml:ControlFlow" xmi:id="_wbJhEvP5EemmdLZfIVnMtQ" name="Edge1" target="_wbJhGPP5EemmdLZfIVnMtQ" source="_wbJhF_P5EemmdLZfIVnMtQ"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_wbJhE_P5EemmdLZfIVnMtQ" name="Edge2" target="_wbJhGfP5EemmdLZfIVnMtQ" source="_wbJhGPP5EemmdLZfIVnMtQ"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_wbJhFPP5EemmdLZfIVnMtQ" name="Edge3" target="_wbJhGvP5EemmdLZfIVnMtQ" source="_wbJhGfP5EemmdLZfIVnMtQ"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_wbJhFfP5EemmdLZfIVnMtQ" name="Edge4" target="_wbJhG_P5EemmdLZfIVnMtQ" source="_wbJhGvP5EemmdLZfIVnMtQ"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_wbJhFvP5EemmdLZfIVnMtQ" name="EndlessLoopEdge" target="_wbJhF_P5EemmdLZfIVnMtQ" source="_wbJhG_P5EemmdLZfIVnMtQ"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_wbJhF_P5EemmdLZfIVnMtQ" name="Iteration 0:Class0.operation0()" incoming="_wbJhFvP5EemmdLZfIVnMtQ" outgoing="_wbJhEvP5EemmdLZfIVnMtQ"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_wbJhGPP5EemmdLZfIVnMtQ" name="Iteration 0:Class1.operation1()" incoming="_wbJhEvP5EemmdLZfIVnMtQ" outgoing="_wbJhE_P5EemmdLZfIVnMtQ"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_wbJhGfP5EemmdLZfIVnMtQ" name="Iteration 0:Class2.operation2()" incoming="_wbJhE_P5EemmdLZfIVnMtQ" outgoing="_wbJhFPP5EemmdLZfIVnMtQ"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_wbJhGvP5EemmdLZfIVnMtQ" name="Iteration 0:Class3.operation3()" incoming="_wbJhFPP5EemmdLZfIVnMtQ" outgoing="_wbJhFfP5EemmdLZfIVnMtQ"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_wbJhG_P5EemmdLZfIVnMtQ" name="Iteration 0:Class4.operation4()" incoming="_wbJhFfP5EemmdLZfIVnMtQ" outgoing="_wbJhFvP5EemmdLZfIVnMtQ"/>
+  </packagedElement>
+</uml:Model>

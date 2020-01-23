@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_Y8CDUI90EemlIq88xj0pAg" name="epo2">
+  <packagedElement xmi:type="uml:Package" xmi:id="_Y8DRcI90EemlIq88xj0pAg" name="bar"/>
+  <packagedElement xmi:type="uml:PrimitiveType" xmi:id="_Y8DRcY90EemlIq88xj0pAg" name="int"/>
+  <packagedElement xmi:type="uml:PrimitiveType" xmi:id="_Y8DRco90EemlIq88xj0pAg" name="string"/>
+  <packagedElement xmi:type="uml:Enumeration" xmi:id="_Y8DRc490EemlIq88xj0pAg" name="OrderStatus">
+    <ownedLiteral xmi:id="_Y8DRdI90EemlIq88xj0pAg" name="Pending"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_Y8DRdY90EemlIq88xj0pAg" name="Supplier">
+    <ownedAttribute xmi:id="_Y8DRdo90EemlIq88xj0pAg" name="name" type="_Y8DRco90EemlIq88xj0pAg">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Y8DRd490EemlIq88xj0pAg"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Y8DReI90EemlIq88xj0pAg" value="1"/>
+    </ownedAttribute>
+  </packagedElement>
+</uml:Model>

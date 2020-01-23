@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_wcfk4PP5EemmdLZfIVnMtQ" name="SD_cd-varyentities-equaldistribution-20entities">
+  <packagedElement xmi:type="uml:Interaction" xmi:id="_wcfk4fP5EemmdLZfIVnMtQ" name="Activity">
+    <lifeline xmi:id="_wcfk4vP5EemmdLZfIVnMtQ" name=":Class0" coveredBy="_wcfk9vP5EemmdLZfIVnMtQ _wcfk9_P5EemmdLZfIVnMtQ _wcfk-PP5EemmdLZfIVnMtQ"/>
+    <lifeline xmi:id="_wcfk4_P5EemmdLZfIVnMtQ" name=":Class1" coveredBy="_wcfk-fP5EemmdLZfIVnMtQ _wcfk-vP5EemmdLZfIVnMtQ"/>
+    <lifeline xmi:id="_wcfk5PP5EemmdLZfIVnMtQ" name=":Class2" coveredBy="_wcfk-_P5EemmdLZfIVnMtQ _wcfk_PP5EemmdLZfIVnMtQ"/>
+    <lifeline xmi:id="_wcfk5fP5EemmdLZfIVnMtQ" name=":Class3" coveredBy="_wcfk_fP5EemmdLZfIVnMtQ _wcfk_vP5EemmdLZfIVnMtQ"/>
+    <lifeline xmi:id="_wcfk5vP5EemmdLZfIVnMtQ" name=":Class4" coveredBy="_wcfk__P5EemmdLZfIVnMtQ _wcflAPP5EemmdLZfIVnMtQ"/>
+    <lifeline xmi:id="_wcfk5_P5EemmdLZfIVnMtQ" name=":Class5" coveredBy="_wcflAfP5EemmdLZfIVnMtQ _wcflAvP5EemmdLZfIVnMtQ"/>
+    <lifeline xmi:id="_wcfk6PP5EemmdLZfIVnMtQ" name=":Class6" coveredBy="_wcflA_P5EemmdLZfIVnMtQ _wcflBPP5EemmdLZfIVnMtQ"/>
+    <lifeline xmi:id="_wcfk6fP5EemmdLZfIVnMtQ" name=":Class7" coveredBy="_wcflBfP5EemmdLZfIVnMtQ _wcflBvP5EemmdLZfIVnMtQ"/>
+    <lifeline xmi:id="_wcfk6vP5EemmdLZfIVnMtQ" name=":Class8" coveredBy="_wcflB_P5EemmdLZfIVnMtQ _wcflCPP5EemmdLZfIVnMtQ"/>
+    <lifeline xmi:id="_wcfk6_P5EemmdLZfIVnMtQ" name=":Class9" coveredBy="_wcflCfP5EemmdLZfIVnMtQ _wcflCvP5EemmdLZfIVnMtQ"/>
+    <lifeline xmi:id="_wcfk7PP5EemmdLZfIVnMtQ" name=":Class10" coveredBy="_wcflC_P5EemmdLZfIVnMtQ _wcflDPP5EemmdLZfIVnMtQ"/>
+    <lifeline xmi:id="_wcfk7fP5EemmdLZfIVnMtQ" name=":Class11" coveredBy="_wcflDfP5EemmdLZfIVnMtQ _wcflDvP5EemmdLZfIVnMtQ"/>
+    <lifeline xmi:id="_wcfk7vP5EemmdLZfIVnMtQ" name=":Class12" coveredBy="_wcflD_P5EemmdLZfIVnMtQ _wcflEPP5EemmdLZfIVnMtQ"/>
+    <lifeline xmi:id="_wcfk7_P5EemmdLZfIVnMtQ" name=":Class13" coveredBy="_wcflEfP5EemmdLZfIVnMtQ _wcflEvP5EemmdLZfIVnMtQ"/>
+    <lifeline xmi:id="_wcfk8PP5EemmdLZfIVnMtQ" name=":Class14" coveredBy="_wcflE_P5EemmdLZfIVnMtQ _wcflFPP5EemmdLZfIVnMtQ"/>
+    <lifeline xmi:id="_wcfk8fP5EemmdLZfIVnMtQ" name=":Class15" coveredBy="_wcflFfP5EemmdLZfIVnMtQ _wcflFvP5EemmdLZfIVnMtQ"/>
+    <lifeline xmi:id="_wcfk8vP5EemmdLZfIVnMtQ" name=":Class16" coveredBy="_wcflF_P5EemmdLZfIVnMtQ _wcflGPP5EemmdLZfIVnMtQ"/>
+    <lifeline xmi:id="_wcfk8_P5EemmdLZfIVnMtQ" name=":Class17" coveredBy="_wcflGfP5EemmdLZfIVnMtQ _wcflGvP5EemmdLZfIVnMtQ"/>
+    <lifeline xmi:id="_wcfk9PP5EemmdLZfIVnMtQ" name=":Class18" coveredBy="_wcflG_P5EemmdLZfIVnMtQ _wcflHPP5EemmdLZfIVnMtQ"/>
+    <lifeline xmi:id="_wcfk9fP5EemmdLZfIVnMtQ" name=":Class19" coveredBy="_wcflHfP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcfk9vP5EemmdLZfIVnMtQ" name="operation0() - send" covered="_wcfk4vP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcfk9_P5EemmdLZfIVnMtQ" name="operation0() - receive" covered="_wcfk4vP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcfk-PP5EemmdLZfIVnMtQ" name="operation1() - send" covered="_wcfk4vP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcfk-fP5EemmdLZfIVnMtQ" name="operation1() - receive" covered="_wcfk4_P5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcfk-vP5EemmdLZfIVnMtQ" name="operation2() - send" covered="_wcfk4_P5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcfk-_P5EemmdLZfIVnMtQ" name="operation2() - receive" covered="_wcfk5PP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcfk_PP5EemmdLZfIVnMtQ" name="operation3() - send" covered="_wcfk5PP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcfk_fP5EemmdLZfIVnMtQ" name="operation3() - receive" covered="_wcfk5fP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcfk_vP5EemmdLZfIVnMtQ" name="operation4() - send" covered="_wcfk5fP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcfk__P5EemmdLZfIVnMtQ" name="operation4() - receive" covered="_wcfk5vP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflAPP5EemmdLZfIVnMtQ" name="operation5() - send" covered="_wcfk5vP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflAfP5EemmdLZfIVnMtQ" name="operation5() - receive" covered="_wcfk5_P5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflAvP5EemmdLZfIVnMtQ" name="operation6() - send" covered="_wcfk5_P5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflA_P5EemmdLZfIVnMtQ" name="operation6() - receive" covered="_wcfk6PP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflBPP5EemmdLZfIVnMtQ" name="operation7() - send" covered="_wcfk6PP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflBfP5EemmdLZfIVnMtQ" name="operation7() - receive" covered="_wcfk6fP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflBvP5EemmdLZfIVnMtQ" name="operation8() - send" covered="_wcfk6fP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflB_P5EemmdLZfIVnMtQ" name="operation8() - receive" covered="_wcfk6vP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflCPP5EemmdLZfIVnMtQ" name="operation9() - send" covered="_wcfk6vP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflCfP5EemmdLZfIVnMtQ" name="operation9() - receive" covered="_wcfk6_P5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflCvP5EemmdLZfIVnMtQ" name="operation10() - send" covered="_wcfk6_P5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflC_P5EemmdLZfIVnMtQ" name="operation10() - receive" covered="_wcfk7PP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflDPP5EemmdLZfIVnMtQ" name="operation11() - send" covered="_wcfk7PP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflDfP5EemmdLZfIVnMtQ" name="operation11() - receive" covered="_wcfk7fP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflDvP5EemmdLZfIVnMtQ" name="operation12() - send" covered="_wcfk7fP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflD_P5EemmdLZfIVnMtQ" name="operation12() - receive" covered="_wcfk7vP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflEPP5EemmdLZfIVnMtQ" name="operation13() - send" covered="_wcfk7vP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflEfP5EemmdLZfIVnMtQ" name="operation13() - receive" covered="_wcfk7_P5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflEvP5EemmdLZfIVnMtQ" name="operation14() - send" covered="_wcfk7_P5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflE_P5EemmdLZfIVnMtQ" name="operation14() - receive" covered="_wcfk8PP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflFPP5EemmdLZfIVnMtQ" name="operation15() - send" covered="_wcfk8PP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflFfP5EemmdLZfIVnMtQ" name="operation15() - receive" covered="_wcfk8fP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflFvP5EemmdLZfIVnMtQ" name="operation16() - send" covered="_wcfk8fP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflF_P5EemmdLZfIVnMtQ" name="operation16() - receive" covered="_wcfk8vP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflGPP5EemmdLZfIVnMtQ" name="operation17() - send" covered="_wcfk8vP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflGfP5EemmdLZfIVnMtQ" name="operation17() - receive" covered="_wcfk8_P5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflGvP5EemmdLZfIVnMtQ" name="operation18() - send" covered="_wcfk8_P5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflG_P5EemmdLZfIVnMtQ" name="operation18() - receive" covered="_wcfk9PP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflHPP5EemmdLZfIVnMtQ" name="operation19() - send" covered="_wcfk9PP5EemmdLZfIVnMtQ"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wcflHfP5EemmdLZfIVnMtQ" name="operation19() - receive" covered="_wcfk9fP5EemmdLZfIVnMtQ"/>
+    <message xmi:id="_wcflHvP5EemmdLZfIVnMtQ" name="operation0()" messageSort="asynchCall" receiveEvent="_wcfk9_P5EemmdLZfIVnMtQ" sendEvent="_wcfk9vP5EemmdLZfIVnMtQ"/>
+    <message xmi:id="_wcflH_P5EemmdLZfIVnMtQ" name="operation1()" messageSort="asynchCall" receiveEvent="_wcfk-fP5EemmdLZfIVnMtQ" sendEvent="_wcfk-PP5EemmdLZfIVnMtQ"/>
+    <message xmi:id="_wcflIPP5EemmdLZfIVnMtQ" name="operation2()" messageSort="asynchCall" receiveEvent="_wcfk-_P5EemmdLZfIVnMtQ" sendEvent="_wcfk-vP5EemmdLZfIVnMtQ"/>
+    <message xmi:id="_wcflIfP5EemmdLZfIVnMtQ" name="operation3()" messageSort="asynchCall" receiveEvent="_wcfk_fP5EemmdLZfIVnMtQ" sendEvent="_wcfk_PP5EemmdLZfIVnMtQ"/>
+    <message xmi:id="_wcflIvP5EemmdLZfIVnMtQ" name="operation4()" messageSort="asynchCall" receiveEvent="_wcfk__P5EemmdLZfIVnMtQ" sendEvent="_wcfk_vP5EemmdLZfIVnMtQ"/>
+    <message xmi:id="_wcflI_P5EemmdLZfIVnMtQ" name="operation5()" messageSort="asynchCall" receiveEvent="_wcflAfP5EemmdLZfIVnMtQ" sendEvent="_wcflAPP5EemmdLZfIVnMtQ"/>
+    <message xmi:id="_wcflJPP5EemmdLZfIVnMtQ" name="operation6()" messageSort="asynchCall" receiveEvent="_wcflA_P5EemmdLZfIVnMtQ" sendEvent="_wcflAvP5EemmdLZfIVnMtQ"/>
+    <message xmi:id="_wcflJfP5EemmdLZfIVnMtQ" name="operation7()" messageSort="asynchCall" receiveEvent="_wcflBfP5EemmdLZfIVnMtQ" sendEvent="_wcflBPP5EemmdLZfIVnMtQ"/>
+    <message xmi:id="_wcflJvP5EemmdLZfIVnMtQ" name="operation8()" messageSort="asynchCall" receiveEvent="_wcflB_P5EemmdLZfIVnMtQ" sendEvent="_wcflBvP5EemmdLZfIVnMtQ"/>
+    <message xmi:id="_wcflJ_P5EemmdLZfIVnMtQ" name="operation9()" messageSort="asynchCall" receiveEvent="_wcflCfP5EemmdLZfIVnMtQ" sendEvent="_wcflCPP5EemmdLZfIVnMtQ"/>
+    <message xmi:id="_wcflKPP5EemmdLZfIVnMtQ" name="operation10()" messageSort="asynchCall" receiveEvent="_wcflC_P5EemmdLZfIVnMtQ" sendEvent="_wcflCvP5EemmdLZfIVnMtQ"/>
+    <message xmi:id="_wcflKfP5EemmdLZfIVnMtQ" name="operation11()" messageSort="asynchCall" receiveEvent="_wcflDfP5EemmdLZfIVnMtQ" sendEvent="_wcflDPP5EemmdLZfIVnMtQ"/>
+    <message xmi:id="_wcflKvP5EemmdLZfIVnMtQ" name="operation12()" messageSort="asynchCall" receiveEvent="_wcflD_P5EemmdLZfIVnMtQ" sendEvent="_wcflDvP5EemmdLZfIVnMtQ"/>
+    <message xmi:id="_wcflK_P5EemmdLZfIVnMtQ" name="operation13()" messageSort="asynchCall" receiveEvent="_wcflEfP5EemmdLZfIVnMtQ" sendEvent="_wcflEPP5EemmdLZfIVnMtQ"/>
+    <message xmi:id="_wcflLPP5EemmdLZfIVnMtQ" name="operation14()" messageSort="asynchCall" receiveEvent="_wcflE_P5EemmdLZfIVnMtQ" sendEvent="_wcflEvP5EemmdLZfIVnMtQ"/>
+    <message xmi:id="_wcflLfP5EemmdLZfIVnMtQ" name="operation15()" messageSort="asynchCall" receiveEvent="_wcflFfP5EemmdLZfIVnMtQ" sendEvent="_wcflFPP5EemmdLZfIVnMtQ"/>
+    <message xmi:id="_wcflLvP5EemmdLZfIVnMtQ" name="operation16()" messageSort="asynchCall" receiveEvent="_wcflF_P5EemmdLZfIVnMtQ" sendEvent="_wcflFvP5EemmdLZfIVnMtQ"/>
+    <message xmi:id="_wcflL_P5EemmdLZfIVnMtQ" name="operation17()" messageSort="asynchCall" receiveEvent="_wcflGfP5EemmdLZfIVnMtQ" sendEvent="_wcflGPP5EemmdLZfIVnMtQ"/>
+    <message xmi:id="_wcflMPP5EemmdLZfIVnMtQ" name="operation18()" messageSort="asynchCall" receiveEvent="_wcflG_P5EemmdLZfIVnMtQ" sendEvent="_wcflGvP5EemmdLZfIVnMtQ"/>
+    <message xmi:id="_wcflMfP5EemmdLZfIVnMtQ" name="operation19()" messageSort="asynchCall" receiveEvent="_wcflHfP5EemmdLZfIVnMtQ" sendEvent="_wcflHPP5EemmdLZfIVnMtQ"/>
+  </packagedElement>
+</uml:Model>

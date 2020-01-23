@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_rrRXwPPcEemHM9iiStVq9Q" name="AD_cd-varyentities-equaldistribution-10entities">
+  <packagedElement xmi:type="uml:Activity" xmi:id="_rrRXwfPcEemHM9iiStVq9Q" name="Activity" node="_rrRXzPPcEemHM9iiStVq9Q _rrRXzfPcEemHM9iiStVq9Q _rrRXzvPcEemHM9iiStVq9Q _rrRXz_PcEemHM9iiStVq9Q _rrRX0PPcEemHM9iiStVq9Q _rrRX0fPcEemHM9iiStVq9Q _rrRX0vPcEemHM9iiStVq9Q _rrRX0_PcEemHM9iiStVq9Q _rrRX1PPcEemHM9iiStVq9Q _rrRX1fPcEemHM9iiStVq9Q">
+    <edge xmi:type="uml:ControlFlow" xmi:id="_rrRXwvPcEemHM9iiStVq9Q" name="Edge1" target="_rrRXzfPcEemHM9iiStVq9Q" source="_rrRXzPPcEemHM9iiStVq9Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_rrRXw_PcEemHM9iiStVq9Q" name="Edge2" target="_rrRXzvPcEemHM9iiStVq9Q" source="_rrRXzfPcEemHM9iiStVq9Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_rrRXxPPcEemHM9iiStVq9Q" name="Edge3" target="_rrRXz_PcEemHM9iiStVq9Q" source="_rrRXzvPcEemHM9iiStVq9Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_rrRXxfPcEemHM9iiStVq9Q" name="Edge4" target="_rrRX0PPcEemHM9iiStVq9Q" source="_rrRXz_PcEemHM9iiStVq9Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_rrRXxvPcEemHM9iiStVq9Q" name="Edge5" target="_rrRX0fPcEemHM9iiStVq9Q" source="_rrRX0PPcEemHM9iiStVq9Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_rrRXx_PcEemHM9iiStVq9Q" name="Edge6" target="_rrRX0vPcEemHM9iiStVq9Q" source="_rrRX0fPcEemHM9iiStVq9Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_rrRXyPPcEemHM9iiStVq9Q" name="Edge7" target="_rrRX0_PcEemHM9iiStVq9Q" source="_rrRX0vPcEemHM9iiStVq9Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_rrRXyfPcEemHM9iiStVq9Q" name="Edge8" target="_rrRX1PPcEemHM9iiStVq9Q" source="_rrRX0_PcEemHM9iiStVq9Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_rrRXyvPcEemHM9iiStVq9Q" name="Edge9" target="_rrRX1fPcEemHM9iiStVq9Q" source="_rrRX1PPcEemHM9iiStVq9Q"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_rrRXy_PcEemHM9iiStVq9Q" name="EndlessLoopEdge" target="_rrRXzPPcEemHM9iiStVq9Q" source="_rrRX1fPcEemHM9iiStVq9Q"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_rrRXzPPcEemHM9iiStVq9Q" name="Iteration 0:Class0.operation0()" incoming="_rrRXy_PcEemHM9iiStVq9Q" outgoing="_rrRXwvPcEemHM9iiStVq9Q"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_rrRXzfPcEemHM9iiStVq9Q" name="Iteration 0:Class1.operation1()" incoming="_rrRXwvPcEemHM9iiStVq9Q" outgoing="_rrRXw_PcEemHM9iiStVq9Q"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_rrRXzvPcEemHM9iiStVq9Q" name="Iteration 0:Class2.operation2()" incoming="_rrRXw_PcEemHM9iiStVq9Q" outgoing="_rrRXxPPcEemHM9iiStVq9Q"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_rrRXz_PcEemHM9iiStVq9Q" name="Iteration 0:Class3.operation3()" incoming="_rrRXxPPcEemHM9iiStVq9Q" outgoing="_rrRXxfPcEemHM9iiStVq9Q"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_rrRX0PPcEemHM9iiStVq9Q" name="Iteration 0:Class4.operation4()" incoming="_rrRXxfPcEemHM9iiStVq9Q" outgoing="_rrRXxvPcEemHM9iiStVq9Q"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_rrRX0fPcEemHM9iiStVq9Q" name="Iteration 0:Class5.operation5()" incoming="_rrRXxvPcEemHM9iiStVq9Q" outgoing="_rrRXx_PcEemHM9iiStVq9Q"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_rrRX0vPcEemHM9iiStVq9Q" name="Iteration 0:Class6.operation6()" incoming="_rrRXx_PcEemHM9iiStVq9Q" outgoing="_rrRXyPPcEemHM9iiStVq9Q"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_rrRX0_PcEemHM9iiStVq9Q" name="Iteration 0:Class7.operation7()" incoming="_rrRXyPPcEemHM9iiStVq9Q" outgoing="_rrRXyfPcEemHM9iiStVq9Q"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_rrRX1PPcEemHM9iiStVq9Q" name="Iteration 0:Class8.operation8()" incoming="_rrRXyfPcEemHM9iiStVq9Q" outgoing="_rrRXyvPcEemHM9iiStVq9Q"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_rrRX1fPcEemHM9iiStVq9Q" name="Iteration 0:Class9.operation9()" incoming="_rrRXyvPcEemHM9iiStVq9Q" outgoing="_rrRXy_PcEemHM9iiStVq9Q"/>
+  </packagedElement>
+</uml:Model>
